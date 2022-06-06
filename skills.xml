@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skills>
+	<skill>
+		<name>basic theory</name>
+	</skill>
+	<skill>
+		<name>git bash</name>
+	</skill>
+	<skill>
+                <name>github</name>
+        </skill>
+         <skill>
+                <name>postman</name>
+	</skill>
+</skills>
