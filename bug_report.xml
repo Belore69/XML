@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bagreport>
+  <summary>Ограничение на ввод символов в поле с описанием товара отсутствует на всех страницах</summary>
+  <description>
+    <1>переход на сайт menyaemsya.com</1> 
+    <2>вход или регистрация</2>
+    <3>Добавить объявление</3>
+    <4>ввод символов в поле Описание</4>
+  </description>
+  <expected result>При внесении информации в поле Описание количество вводимых пользователем знаков не лимитируется. Ожидается, что после внесения 350 символов система не будет выводить на экран знаки и предложит пользователю сократить текст</expected result>
+  <attachments>-</attachments>
+  <priority>P2 Medium</priority>
+  <severity>Major</severity>
+  <status>accepted</status>
+</bagreport>  
